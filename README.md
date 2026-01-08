@@ -1,6 +1,25 @@
-![image](https://github.com/user-attachments/assets/6eafe11a-45a5-4559-8a01-4e46620076a6)
-# ProvaCobrinha
+# Jogo da Cobrinha 🐍
 
-Jogo feito em HTML e JS baseado no snake game, no jogo o seu objetivo é coletar a maior quantidade de maças possível, porém, a cada maça o tamanho da cobrinha aumenta.
+Um projeto simples de **Snake Game** feito com **HTML, CSS e JavaScript**.  
+O objetivo é controlar a cobrinha para coletar maçãs, evitando bater nas paredes ou nela mesma.
+
+## Funcionalidades
+
+- Movimentação da cobrinha com as setas do teclado.  
+- Crescimento da cobrinha ao comer maçãs.  
+- Sistema de pontuação simples.  
+
+## Tecnologias
+
+- HTML  
+- CSS  
+- JavaScript (vanilla)
+
+## Como jogar
+
+1. Abra o arquivo `index.html` no navegador.  
+2. Use as **setas do teclado** para mover a cobrinha.  
+3. Coma as maçãs para ganhar pontos e crescer.  
+4. Evite bater nas paredes ou na própria cobrinha.
 
 
